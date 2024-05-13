@@ -7,4 +7,4 @@
 # 如何PR
 登录github 
 
-访问项目网站[https://github.com/DDLGitGzzhM/Zero]，申请项目合作者
+访问项目网站[github-Zero](https://github.com/DDLGitGzzhM/Zero)，申请项目合作者

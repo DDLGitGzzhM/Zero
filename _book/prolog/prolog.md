@@ -21,3 +21,10 @@
 以上话题可能牵扯到一些敏感话题
 
 因此对于本站的存在，目前只是进行一个点对点的传播，请传给需要的人
+
+## 优秀的作品
+[四川大学](https://scu-cs-runner.github.io/SurviveSCUManual/)
+
+[上海交通大学](https://survivesjtu.gitbook.io/survivesjtumanual)
+
+[OIWiki](https://oi-wiki.org/)

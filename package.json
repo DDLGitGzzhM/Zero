@@ -1,7 +1,7 @@
 {
   "name": "zero",
   "version": "1.0.0",
-  "description": "",
+  "description": "本项目希望能给还未毕业的校友们带来微笑的帮助~",
   "main": "index.js",
   "scripts": {
     "server": "gitbook serve",
@@ -14,5 +14,14 @@
     "gitbook-plugin-code": "^0.1.0",
     "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-search-pro": "^2.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDLGitGzzhM/Zero.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DDLGitGzzhM/Zero/issues"
+  },
+  "homepage": "https://github.com/DDLGitGzzhM/Zero#readme"
 }
