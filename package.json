@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "gitbook serve",
+    "server": "gitbook serve",
     "build": "gitbook build"
   },
   "author": "",

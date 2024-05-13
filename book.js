@@ -1,9 +1,9 @@
 module.exports = {
     // 书籍信息
-    title: "书名",
-    description: "描述",
+    title: "Road",
+    description: "简易的road",
     isbn: "图书编号",
-    author: "作者",
+    author: "Gzm",
     lang: "zh-cn",
     // 插件列表
     plugins: ["-lunr","-search","search-pro","code","expandable-chapters","back-to-top-button"],
